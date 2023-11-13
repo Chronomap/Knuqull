@@ -1,5 +1,5 @@
 # Knuqull
-A handled low-pro case for the QAZ PCB based on the existing [Qull](https://www.cbkbd.com/product/qull) case for QAZ and [KnuckHull](https://trashman.wiki/community/cases/knuckhull) case for minivan
+A handled low-pro case for the [QAZ PCB](https://www.cbkbd.com/product/qaz) based on the existing [Qull](https://www.cbkbd.com/product/qull) case for QAZ and [KnuckHull](https://trashman.wiki/community/cases/knuckhull) case for minivan
 
 <img src="https://github.com/Chronomap/Knuqull/blob/main/Images/Knuqull.png" width="600" height="300">
 
