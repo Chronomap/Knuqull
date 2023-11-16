@@ -18,7 +18,7 @@ A handled low-pro case for the [QAZ PCB](https://www.cbkbd.com/product/qaz) base
 All relevant STL and STEP files for production can be found in their respective version folders.
 
 Additional parts needed:
-- Integrated QAZ PCB and Qull plate
+- Integrated QAZ PCB and [Qull plate](https://github.com/CoffeeBreakKeyboards/Qull-Documentation)
 - 4 M2 screws
   - 4 M2x4mm heatset inserts (if 3D Printing)
 - 4 3/4" feet (cork or rubber)
