@@ -17,6 +17,8 @@ A handled low-pro case for the [QAZ PCB](https://www.cbkbd.com/product/qaz) base
 
 All relevant STL and STEP files for production can be found in their respective version folders.
 
+*New 3D printing files with a shorter handle for more printer compatibility were provided by l2yuk3n's buddy and l2yuk3n who asked to be credited as "online friendly peoples," many thanks to them!*
+
 Additional parts needed:
 - Integrated QAZ PCB and [Qull plate](https://github.com/CoffeeBreakKeyboards/Qull-Documentation)
 - 4 M2 screws
