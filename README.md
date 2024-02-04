@@ -25,6 +25,10 @@ Additional parts needed:
   - 4 M2x4mm heatset inserts (if 3D Printing)
 - 4 3/4" feet (cork or rubber)
 
+**There are untested "Wider Port" files for 3D printing and CNC-ing**
+
+ These files have more room beneath the PCB and a taller (and slightly wider) USB port to (hopefully) allow a pro-micro QAZ pcb to be used
+
 ## QA Notes
 - Careful with flexible plates as bottoming out becomes an issue
   - There is roughly 2mm of space between the hotswap sockets (if using) and the case bottom
