@@ -15,18 +15,18 @@ A handled low-pro case for the [QAZ PCB](https://www.cbkbd.com/product/qaz) base
 
 ## Want one?
 
-All relevant STL and STEP files for production can be found in their respective version folders.
-
-*New 3D printing files with a shorter handle for more printer compatibility were provided by l2yuk3n's buddy and l2yuk3n who asked to be credited as "online friendly peoples," many thanks to them!*
-
-*There are untested "Wider Port" files for 3D printing and CNC-ing*
-- These files have more room beneath the PCB and a taller (and slightly wider) USB port to (hopefully) allow a pro-micro QAZ pcb to be used
+All relevant STL and STEP files for production can be found in their respective version folders. In addition, the CNC model has drawing PDFs denoting relevant threads.
  
 **Additional parts needed:**
 - Integrated QAZ PCB and [Qull plate](https://github.com/CoffeeBreakKeyboards/Qull-Documentation)
 - 4 M2 screws
   - 4 M2x4mm heatset inserts (if 3D Printing)
 - 4 3/4" feet (cork or rubber)
+
+*New 3D printing files with a shorter handle for more printer compatibility were provided by l2yuk3n's buddy and l2yuk3n who asked to be credited as "online friendly peoples," many thanks to them!*
+
+*There are untested "Wider Port" files for 3D printing and CNC-ing*
+- These files have more room beneath the PCB and a taller (and slightly wider) USB port to (hopefully) allow a pro-micro QAZ pcb to be used
 
 ## QA Notes
 - Careful with flexible plates as bottoming out becomes an issue
